@@ -1,6 +1,8 @@
 <h1 align="center">Hi there it's me Shriya Vimal Sundriyal</h1>
 <h3 align="center">A backend developer from India</h3>
 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif" width="500" height="320" />
+
 - ⚡ About me **A Backend Developer with 2.5 years of Experience in IT industry. Currently, I am working as a Specialist Programmer (Full Stack Developer, DevOps Engineer) at Infosys. I have worked on technologies like NodeJs, Javascript, ReactJS, Different communication protocols (like Websockets, gRPC), MYSQL,  Java, Kubernetes, Terraform and Azure services(VM, AKS, Storage account, CosmosDB).**
 
 - 🌱 I’m currently learning **Data structures, Azure Compute Services and Kubernetes**
