@@ -3,11 +3,15 @@
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif" width="500" height="320" />
 
+- ✨ **Learning and enjoying my life**
+
 - 🌱 I’m currently learning **Data structures, Azure Compute Services and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shriya2603](https://github.com/shriya2603)
 
-- 👨‍💻 Articles Written : https://www.geeksforgeeks.org/kubernetes-taint-and-toleration/
+- 📄 Articles Written : https://www.geeksforgeeks.org/kubernetes-taint-and-toleration/
+
+-  ⚡ My Hobbies are Swimming 🏊‍♀️ , Badminton 🏸
 
 - 💬 Ask me about **NodeJS, gRPC, websockets, terraform,**
 
