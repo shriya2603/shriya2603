@@ -1,21 +1,19 @@
 <h1 align="center">Hi there it's me Shriya Vimal Sundriyal</h1>
-<h3 align="center">A backend developer from India</h3>
+<h3 align="center">A Backend Engineer from India</h3>
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif" width="500" height="320" />
 
 - ✨ **Learning and enjoying my life**
 
-- 🌱 I’m currently learning **Data structures, Azure Compute Services and Kubernetes**
-
 - 👨‍💻 All of my projects are available at [https://github.com/shriya2603](https://github.com/shriya2603)
 
 - 📄 Articles Written : https://www.geeksforgeeks.org/kubernetes-taint-and-toleration/
 
--  ⚡ My Hobbies are Swimming 🏊‍♀️ , Badminton 🏸
+-  ⚡ My Hobbies are Swimming 🏊‍♀️ , Badminton 🏸, Skating ⛸️, Yoga 🧘🏽, Cooking 🍲
 
-- 💬 Ask me about **NodeJS, JavaScript, gRPC, websockets, terraform**
+- 💬 Ask me about **NodeJS, JavaScript, gRPC, WebSockets, Terraform**
 
-- ⚡ About me **A Backend Developer with 2.5 years of Experience in IT industry. Currently, I am working as a Specialist Programmer (Backend Engineer) at Infosys. I have worked on technologies like NodeJs, Javascript, ReactJS, Different communication protocols (like Websockets, gRPC), MYSQL,  Java, Kubernetes, Terraform and Azure services(VM, AKS, Storage account).**
+- ⚡ About me **A Backend Developer with 2.6 years of Experience in IT industry. Currently, I am working as a Specialist Programmer (Backend Engineer) at Infosys. I have worked on technologies like NodeJs, Javascript, TypeScript, ReactJS, Different communication protocols (like Websockets, gRPC), MYSQL, PostgreSQL, Java, Kubernetes, Terraform (Azure Provider), Azure serverless Functions and Azure Storage account**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
