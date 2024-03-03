@@ -1,24 +1,27 @@
 <h1 align="center">Hi there it's me Shriya Vimal Sundriyal</h1>
 <h3 align="center">A Backend Engineer from India</h3>
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shriya2603/shriya2603/main/code.gif" width="500" height="300" />
 
-- ✨ **Learning and enjoying my life**
+✨ **Learning and enjoying my life**
 
-- 👨‍💻 All of my projects are available at [shriya2603](https://github.com/shriya2603)
+👨‍💻 All of my projects are available at [shriya2603](https://github.com/shriya2603)
 
-- 📄 Articles Written : https://www.geeksforgeeks.org/kubernetes-taint-and-toleration/
+📄 Articles Written : https://www.geeksforgeeks.org/kubernetes-taint-and-toleration/
 
-- ⚡ My Hobbies are Swimming 🏊‍♀️ , Badminton 🏸, Skating ⛸️, Yoga 🧘🏽, Cooking 🍲
+⚡ My Hobbies are Swimming 🏊‍♀️ , Badminton 🏸, Skating ⛸️, Yoga 🧘🏽, Cooking 🍲, Sewing🧵 , Drawing 👩‍🎨
 
-- 💬 Ask me about **Golang, PostgresSQL, NodeJS, JavaScript, gRPC, WebSockets**
+💬 Ask me about **Golang, PostgresSQL, NodeJS, JavaScript, gRPC, WebSockets**
 
-- ⚡ About me - **I am a backend engineer with over 4 years of experience in software development.
- Skilled in developing APIs using frameworks like GIN and integrating observability features for monitoring API latency and usage metrics. Adept at conducting in-depth analysis, resolving critical bugs, and enhancing system stability and reliability.Built parser services using Golang to transform devices' byte messages into a readable format. Currently a Golang Developer at LocoNav, specializing in Golang, PostgresSQL, and Kafka for building services.
-Previously, spent 2.10 years at Infosys as a NodeJS Developer, working on web services using NodeJS, gRPC, WebSockets, protocol buffers, and Azure services. Accomplished projects include building a native console application, code migration, and provisioning Azure resources through Terraform . 
-Recognized for dedication and skill acquisition**
+<h3 align="left">⚡ About me </h3>  
+<p align="left">
+I am a backend engineer with over 4 years of experience in software development.
+Skilled in developing APIs using frameworks like GIN and integrating observability features for monitoring API latency and usage metrics. Adept at conducting in-depth analysis, resolving critical bugs, and enhancing system stability and reliability. Built parser services using Golang to transform devices' byte messages into a readable format. Currently a Golang, Kotlin Developer at BookMyShow. 
+Previously, spent 2.10 years at Infosys as a NodeJS Developer, working on web services using NodeJS, gRPC, WebSockets, protocol buffers, and Azure services. Accomplished projects include building a native console application, code migration, and provisioning Azure resources through Terraform . Had worked for a startup - LocoNav as a a Golang Developer - specializing in Golang, PostgresSQL, and Kafka for building services.
+Recognized for dedication and skill acquisition
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools </h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -37,6 +40,10 @@ Recognized for dedication and skill acquisition**
   </a>
    <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  </a>
+   <a href="https://golang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -76,13 +83,14 @@ Recognized for dedication and skill acquisition**
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://linkedin.com/in/shriya-sundriyal-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriya-sundriyal-" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shriya2603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shriya2603" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user//shriya%20sundriyal%201/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="/shriya%20sundriyal%201/profile" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/s_____97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_____97" height="30" width="40" /></a>
 </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shriya2603&show_icons=true&locale=en" alt="shriya2603" /></p>
 
